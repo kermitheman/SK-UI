@@ -33,7 +33,7 @@ set(IMGUI_SOURCES
 include_directories(${IMGUI_DIR} ${IMGUI_DIR}/backends)
 
 # Add include folder for custom libraries
-set(CUSTOM_INCLUDE_DIR ${CMAKE_SOURCE_DIR}/include)
+set(CUSTOM_INCLUDE_DIR ${CMAKE_SOURCE_DIR}/include_headers)
 include_directories(${CUSTOM_INCLUDE_DIR})
 
 # Add the include folder itself as an include directory
