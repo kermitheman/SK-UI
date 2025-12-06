@@ -1,5 +1,5 @@
 # SK-UI
-This is UI lib for c++, it is made as a training exercise but it is free use for anybody that want to use it
+This is UI lib for c++, it is made as a training exercise but it is free use for anybody that wants to use it
 
 All of the files can be downloaded at https://github.com/kermitheman/SK-UI 
 
