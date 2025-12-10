@@ -1,0 +1,3 @@
+C:/dev/SK_UI/build/CMakeFiles/SK_UI.dir
+C:/dev/SK_UI/build/CMakeFiles/edit_cache.dir
+C:/dev/SK_UI/build/CMakeFiles/rebuild_cache.dir

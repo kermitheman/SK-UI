@@ -1,0 +1,1 @@
+-IC:/dev/SK_UI/external/OpenGL/include -IC:/dev/SK_UI/external/glm -IC:/dev/SK_UI/external/stb_image -IC:/dev/SK_UI/external/imgui -IC:/dev/SK_UI/external/imgui/backends -IC:/dev/SK_UI/include -IC:/dev/SK_UI/headers -IC:/dev/SK_UI/src/include_main -IC:/dev/SK_UI/external/glfw/include
